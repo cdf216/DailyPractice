@@ -1,6 +1,7 @@
 /**
  * Created by Administrator on 2016/6/17.
  */
+//找出id属性值是palceholder的图片病修改起src属性，找出id 属性是description的元素并修改起第一个子元素（firstChild）的nodeValue属性
 function showPic(whichpic){
     if (!document.getElementById("placeholder")) return true;
     var source = whichpic.getAttribute("href");
