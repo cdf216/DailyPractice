@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3257734a-d3b8-415c-a842-770e2d0c4911" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DailyPractice/ImageList/ImageList.html" afterPath="$PROJECT_DIR$/DailyPractice/ImageList/ImageList.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DailyPractice/ImageList/ImageList.js" afterPath="$PROJECT_DIR$/DailyPractice/ImageList/ImageList.js" />
     </list>
     <ignored path="DailyPractice.iws" />
@@ -25,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ImageList.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImageList.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DailyPractice/ImageList/ImageList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5325301">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            <state vertical-scroll-proportion="-8.666667">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -45,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageList.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ImageList.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DailyPractice/ImageList/ImageList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.57821554">
+              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
               <folding>
                 <element signature="n#!!doc;n#showPic#0" expanded="false" />
               </folding>
@@ -78,8 +76,8 @@
         <option value="$PROJECT_DIR$/DailyPractice/test1.html" />
         <option value="$PROJECT_DIR$/DailyPractice/showPic/test1.html" />
         <option value="$PROJECT_DIR$/DailyPractice/ImageList/ImageList.css" />
-        <option value="$PROJECT_DIR$/DailyPractice/ImageList/ImageList.js" />
         <option value="$PROJECT_DIR$/DailyPractice/ImageList/ImageList.html" />
+        <option value="$PROJECT_DIR$/DailyPractice/ImageList/ImageList.js" />
       </list>
     </option>
   </component>
@@ -89,8 +87,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="459" />
-    <option name="y" value="280" />
+    <option name="x" value="-26" />
+    <option name="y" value="50" />
     <option name="width" value="1617" />
     <option name="height" value="1023" />
   </component>
@@ -235,6 +233,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3257734a-d3b8-415c-a842-770e2d0c4911" name="默认的" comment="" />
@@ -245,8 +246,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="459" y="280" width="1617" height="1023" extended-state="0" />
-    <editor active="true" />
+    <frame x="-26" y="50" width="1617" height="1023" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.129829" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -267,6 +268,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -292,21 +301,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DailyPractice/ImageList/ImageList.js">
+    <entry file="file://$PROJECT_DIR$/DailyPractice/ImageList/ImageList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc;n#showPic#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-8.666667">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DailyPractice/ImageList/ImageList.html">
+    <entry file="file://$PROJECT_DIR$/DailyPractice/ImageList/ImageList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5325301">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          <folding />
+        <state vertical-scroll-proportion="0.57821554">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc;n#showPic#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

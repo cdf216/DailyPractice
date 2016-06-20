@@ -19,7 +19,7 @@ function showPic(whichpic){
     return false;
 }
 
-//把onclick时间绑定到id等于“imagegallery”的元素内的各个链接元素上。
+//把onclicks事件绑定到id等于“imagegallery”的元素内的各个链接元素上。
 function prepareGallery() {
     if (!document.getElementsByTagName) return false;
     if (!document.getElementById) return false;
