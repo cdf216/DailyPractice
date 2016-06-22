@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3257734a-d3b8-415c-a842-770e2d0c4911" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/message/addLoadEvent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/message/message.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/message/moveElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/message/positionMessage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="3257734a-d3b8-415c-a842-770e2d0c4911" name="默认的" comment="" />
     <ignored path="DailyPractice.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +54,8 @@
       <file leaf-file-name="moveElement.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DailyPractice/message/moveElement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15513127">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.18615752">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc;n#moveElement#0" expanded="false" />
               </folding>
@@ -569,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DailyPractice/message/moveElement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15513127">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.18615752">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc;n#moveElement#0" expanded="false" />
           </folding>
