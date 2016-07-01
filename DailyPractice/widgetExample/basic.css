@@ -2,7 +2,27 @@
 .showcase-form select .ng-dirty.ng-invalid,
 .showcase-form input.ng-dirty.ng-invalid {
     border-color: #e9322d;
-    -webkit-box-shadow: 0 0 6px #f8b9b7;
-    -moz-box-shadow: 0 0 6px #f8b9b7;
-    box-shadow: 0 0 6px #f8b9b7;
+    /*-webkit-box-shadow: 0 0 6px #f8b9b7;*/
+    /*-moz-box-shadow: 0 0 6px #f8b9b7;*/
+    /*box-shadow: 0 0 6px #f8b9b7;*/
+}
+
+.border-attribute {
+    border: #acacac 1px solid;
+    border-radius: 5px;
+    background-color: #e2e2e2;
+    padding-bottom: 50px;
+}
+
+.title {
+    text-align: center;
+    font-size: larger;
+    font-weight: 900;
+    padding-top: 15px;
+}
+
+.lablestyle {
+    text-align: right;
+    padding-top: 10px;
+    font-size: larger;
 }
