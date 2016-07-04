@@ -1,7 +1,7 @@
 /**
  * Created by Administrator on 2016/6/30.
  */
-angular.module("app",[]).controller("verifyController", function ($scope) {
+angular.module("myapp",[]).controller("verifyController", function ($scope) {
 
     //$scope.selected = {};
     ////省市区选择
