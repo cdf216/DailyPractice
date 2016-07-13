@@ -21,18 +21,52 @@
 <!--</script>-->
 
 
-<script>
-    var str = "我是一个 String 对象 , 我声明在这里 , 但我不是独立存在的！";
-    var obj = { des: "我是一个 Object 对象 , 我声明在这里，我也不是独立存在的。" };
-    var fun = function() { console.log( "我是一个Function 对象！谁调用我，我属于谁：", this ); };
-    obj.fun = fun; console.log( this === window ); // 打印true
-    console.log( window.str === str ); // 打印 true
-    console.log( window.obj === obj ); // 打印true
-    console.log( window.fun === fun ); // 打印 true
-    fun(); // 打印 我是一个 Function对象！谁调用我，我属于谁：window
-    obj.fun(); // 打印 我是一个 Function 对象！谁调用我，我属于谁：obj
-    fun.apply(str); // 打印我是一个 Function 对象！谁调用我，我属于谁：str
-</script>
+<!--<script>-->
+    <!--var str = "我是一个 String 对象 , 我声明在这里 , 但我不是独立存在的！";-->
+    <!--var obj = { des: "我是一个 Object 对象 , 我声明在这里，我也不是独立存在的。" };-->
+    <!--var fun = function() { console.log( "我是一个Function 对象！谁调用我，我属于谁：", this ); };-->
+    <!--obj.fun = fun; console.log( this === window ); // 打印true-->
+    <!--console.log( window.str === str ); // 打印 true-->
+    <!--console.log( window.obj === obj ); // 打印true-->
+    <!--console.log( window.fun === fun ); // 打印 true-->
+    <!--fun(); // 打印 我是一个 Function对象！谁调用我，我属于谁：window-->
+    <!--obj.fun(); // 打印 我是一个 Function 对象！谁调用我，我属于谁：obj-->
+    <!--fun.apply(str); // 打印我是一个 Function 对象！谁调用我，我属于谁：str-->
+<!--</script>-->
 
+<script>
+//    var nums = [];
+//    for (var i = 0; i < 100; ++i) {
+//        nums[i] = i+1;
+//    }
+//    var samenums = nums;
+//    nums[0] = 400;
+//    alert(samenums[0]);
+
+//function copy(arr1, arr2) {
+//    for (var i = 0; i < arr1.length; ++i) {
+//        arr2[i] = arr1[i];
+//    }
+//}
+//var nums = [];
+//for (var i = 0; i < 100; ++i) {
+//    nums[i] = i+1;
+//}
+//var samenums = [];
+//copy(nums, samenums);
+//nums[0] = 400;
+//alert(samenums[0]); // 显示 1
+
+function first(word) {
+    return word[0];
+}
+var words = ["for","your","information"];
+var acronym = words.map(first);
+//alert(acronym); // 显示 "f,y,i"
+document.write(acronym + "<br>");
+document.write(acronym.join(""));
+
+
+</script>
 </body>
 </html>
