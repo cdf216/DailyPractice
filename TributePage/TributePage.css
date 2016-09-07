@@ -1,0 +1,40 @@
+.mainbody {
+    background-color: #e2e2e2;
+    margin-top: 50px;
+    margin-bottom:3%;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-bottom:3%;
+    border-radius: 5px;
+}
+
+.title {
+    text-align:center;
+    padding-top:30px;
+}
+
+.image {
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius: 4px;
+    border: 1px white solid;
+    padding:5px;
+    background-color: white;
+    text-align:center;
+}
+.picture {
+    height:auto;
+    width: 100%;
+}
+
+.list-text {
+    padding-left:20%;
+    padding-right:20%;
+}
+
+.li {
+    width:500px;
+    border:1px solid red;
+}
+
+
